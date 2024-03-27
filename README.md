@@ -56,13 +56,13 @@ To get started with the reminders app:
 
 7. The app should now be running on http://localhost:3000.
 
-### Features
+## Features
 
 - **Add Reminders:** Quickly add new reminders with a user-friendly interface.
 - **View Reminders:** All your reminders are displayed in an intuitive layout.
 - **Delete Reminders:** Remove reminders you no longer need with just a click.
 
-### Technologies Used:
+## Technologies Used:
 
 - **Backend:** Express.js, TypeScript
 - **Frontend:** React, TypeScript
